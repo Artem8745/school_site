@@ -1,4 +1,4 @@
 # school_site
 
-https://artem8745.github.io/School/
+https://artem8745.github.io/school_site/
 
